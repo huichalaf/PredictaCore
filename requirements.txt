@@ -1,0 +1,9 @@
+numpy
+pandas
+tensorflow
+keras
+flask  # Para la interfaz web
+gunicorn  # Servidor para Flask en producción
+uvicorn
+fastapi
+python-multipart  # Para enviar archivos en FastAPI
